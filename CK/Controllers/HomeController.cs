@@ -17,6 +17,7 @@ namespace CK.Controllers
     [Authorize]
     public class HomeController : Controller
     {
+        //aa
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
