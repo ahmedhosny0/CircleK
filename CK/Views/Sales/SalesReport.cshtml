@@ -1,0 +1,181 @@
+﻿ @addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+@model CK.Models.Store
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.css" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+    <script type="text/javascript" src="/js/site.js"></script>
+    <link type="text/css" rel="stylesheet" href="~/css/test.css" />
+</head>
+<body id="top" class="top">
+     <!-- start preloader -->
+    <div class="preloader">
+        <div class="sk-spinner sk-spinner-wave">
+            <div class="sk-rect1"></div>
+            <div class="sk-rect2"></div>
+            <div class="sk-rect3"></div>
+            <div class="sk-rect4"></div>
+            <div class="sk-rect5"></div>
+        </div>
+    </div>
+    <div class="container">
+
+@*         <img src="~/images/Circle_K,_1255_Academy_Park_Lp,_Colorado_Springs,_CO.jpg" width="1000px"/>
+ *@    <!-- end preloader -->
+    <h3>Stores Data</h3>
+        <a class="nav-link" style="color:black" asp-controller="Reports" asp-action="SalesReport">Details</a>
+        <a class="nav-link" style="color:black" asp-controller="Home" asp-action="Index">Home</a>
+        <form asp-controller="Sales" asp-action="SalesReport" method="get">
+        <label for="fromDate" class="Lab" style="display:inline-block">FROM Date:</label>
+        <input type="text" id="txtStartDate" name="startDate" class="startDate form-control" style="width:200px;display:inline-block" />
+        @*         Start: <input type="date" id="txtStartDate" name="startDate" class="startDate form-control" />
+        *@    <label for="toDate" class="Lab" style="display:inline-block">To Date:</label>
+
+        <input type="text" id="txtEndDate" name="endDate" class="endDate form-control" style="width:200px;display:inline-block" />
+        @*  End: <input type="date" id="txtEndDate" name="endDate" class="endDate form-control" />*@
+        @*      <select asp-for="Id" asp-items="@(new SelectList(ViewBag.message,"Id","Name"))"></select> asp-for="StoreId"
+        *@
+        <!-- name is important -table name- it will specify the selected store -->
+        <select name="Store" asp-items="@(new SelectList(ViewBag.VBStore,"Value","Text"))">
+            <option value="0">All Stores</option>
+        </select> 
+        <select name="Department" asp-items="@(new SelectList(ViewBag.VBDepartment,"Id","Name"))">
+            <option value="0">All Department</option>
+        </select>
+        <br />
+            <input type="checkbox" name="exportAfterClick" value="true" />Export
+
+            <input type="submit" value="Display Report" id="exportButton" class="btn btn-primary" />
+@*             <input type="submit" value="Display Report" class="btn btn-primary" />
+ *@            
+            <div id="stopwatch"></div>
+
+            <div class="preloader">
+                <div class="sk-spinner sk-spinner-wave">
+                    <div class="sk-rect1"></div>
+                    <div class="sk-rect2"></div>
+                    <div class="sk-rect3"></div>
+                    <div class="sk-rect4"></div>
+                    <div class="sk-rect5"></div>
+                </div>
+            </div>
+        <hr />
+
+        @if (ViewBag.Data != null)
+            {       
+            <table class="table">
+                <tr>
+                 <th>Invoice Date</th>
+             <th>StoreName</th>
+                   <th>Department Name</th>
+                    <th>Total Sales</th>
+
+
+                    @*              <th>Store Sales</th> *@
+ 
+
+                </tr>
+                   
+                @foreach (var dr in ViewBag.Data)
+                {
+                    <tr>
+                <td>@dr.InvoiceDate</td>
+                          <td>@dr.StoreName</td>
+                   <td>@dr.DepName</td>
+                            <td>@dr.Total</td>
+
+
+
+
+                    </tr>
+                }
+            </table>
+        }
+
+        <script type="text/javascript">
+                document.getElementById('exportButton').addEventListener('click', function () {
+                    var startTime = performance.now(); // Start the stopwatch when the export button is clicked
+
+                    // Trigger the export action
+                    $.ajax({
+                        url: '@Url.Action("ExportToExcel", "Reports")',
+                        type: 'POST',
+                        success: function (data) {
+                            var endTime = performance.now(); // Record the time when the export is complete
+                            var elapsedTime = endTime - startTime;
+                            var elapsedTimeInSeconds = (elapsedTime / 1000).toFixed(2);
+
+                            // Display the elapsed time in the stopwatch div
+                            document.getElementById('stopwatch').innerText = 'Time taken for export: ' + elapsedTimeInSeconds + ' seconds';
+                        }
+                    });
+                });
+                // document.getElementById('exportButton').addEventListener('click', function () {
+                //     var startTime = new Date().getTime();
+
+                //     // Your existing export logic here
+
+                //     var endTime = new Date().getTime();
+                //     var elapsedTime = endTime - startTime;
+
+                //     // Display the elapsed time in the stopwatch div
+                //     document.getElementById('stopwatch').innerText = 'Time taken for export: ' + elapsedTime + ' milliseconds';
+                // });
+                // function myFunction() {
+                //     alert("The form was submitted");
+                //     $('.preloader').fadeOut(1000); // set duration in brackets
+
+                // }
+               
+                window.onload = function () {
+                    var reloading = sessionStorage.getItem("reloading");
+                    if (reloading) {
+                        sessionStorage.removeItem("reloading");
+                        myFunction();
+                    }
+                }
+
+                function reloadP() {
+                    $(window).load(function () {
+                        $('.preloader').fadeOut(1000); // set duration in brackets
+                    });
+                }
+            $(function () {
+                $(".startDate").datepicker({
+                    autoclose: true,
+                    format: 'yyyy/mm/dd'
+                }).on('changeDate', function (selected) {
+                    var minDate = new Date(selected.date);
+                    minDate.setDate(minDate.getDate());
+                    $('.endDate').datepicker('setStartDate', minDate);
+                });
+
+                $(".endDate").datepicker({
+                    autoclose: true,
+                    format: 'yyyy/mm/dd'
+                }).on('changeDate', function (selected) {
+                    var minDate = new Date(selected.date);
+                    minDate.setDate(minDate.getDate());
+                    $('.startDate').datepicker('setEndDate', minDate);
+                });
+            });
+        </script>
+    </form>
+    </div>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/jquery.singlePageNav.min.js"></script>
+    <script src="/Scripts/typed.js"></script>
+    <script src="/Scripts/wow.min.js"></script>
+    <script src="/Scripts/custom.js"></script>
+    <script src="/Scripts/main.js"></script>
+</body>
+</html>

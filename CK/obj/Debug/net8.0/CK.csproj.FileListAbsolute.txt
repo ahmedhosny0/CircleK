@@ -1,0 +1,1871 @@
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\appsettings.json
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\CK.exe
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\CK.deps.json
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\CK.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\CK.pdb
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.dll
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.pdb
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\ref\CK.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Irony.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\AspCore Projects\CK\CK\bin\Debug\net8.0\XLParser.dll
+D:\AspCore Projects\CK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\appsettings.json
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\CK.exe
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\CK.deps.json
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\CK.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\CK.pdb
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Irony.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\XLParser.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp Core Projects\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.dll
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.pdb
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\Asp Core Projects\CKG\CK\CK\obj\Debug\net8.0\ref\CK.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\appsettings.json
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\CK.exe
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\CK.deps.json
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\CK.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\CK.pdb
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Irony.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\XLParser.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspCore Projects\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.dll
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.pdb
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\AspCore Projects\1\CKG\CK\CK\obj\Debug\net8.0\ref\CK.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\appsettings.json
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\CK.exe
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\CK.deps.json
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\CK.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\CK.pdb
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Irony.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\XLParser.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\1\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.dll
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.pdb
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\1\1\CKG\CK\CK\obj\Debug\net8.0\ref\CK.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\1\CKG\CK\CK\bin\Debug\net8.0\appsettings.json
+D:\1\CKG\CK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\1\CKG\CK\CK\bin\Debug\net8.0\CK.exe
+D:\1\CKG\CK\CK\bin\Debug\net8.0\CK.deps.json
+D:\1\CKG\CK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\1\CKG\CK\CK\bin\Debug\net8.0\CK.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\CK.pdb
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Irony.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\XLParser.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\1\CKG\CK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\1\CKG\CK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\1\CKG\CK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.dll
+D:\1\CKG\CK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.pdb
+D:\1\CKG\CK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\1\CKG\CK\CK\obj\Debug\net8.0\ref\CK.dll
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.sourcelink.json
+D:\Git\CircleK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\Git\CircleK\CK\bin\Debug\net8.0\appsettings.json
+D:\Git\CircleK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\Git\CircleK\CK\bin\Debug\net8.0\CK.exe
+D:\Git\CircleK\CK\bin\Debug\net8.0\CK.deps.json
+D:\Git\CircleK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\Git\CircleK\CK\bin\Debug\net8.0\CK.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\CK.pdb
+D:\Git\CircleK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Irony.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\XLParser.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\Git\CircleK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\CircleK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\Git\CircleK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Git\CircleK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\Git\CircleK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.dll
+D:\Git\CircleK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.pdb
+D:\Git\CircleK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\Git\CircleK\CK\obj\Debug\net8.0\ref\CK.dll
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.csproj.AssemblyReference.cache
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.AssemblyInfoInputs.cache
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.AssemblyInfo.cs
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.csproj.CoreCompileInputs.cache
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.MvcApplicationPartsAssemblyInfo.cache
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cache
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.RazorAssemblyInfo.cs
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.sourcelink.json
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.dll
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\refint\CK.dll
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.pdb
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\appsettings.Development.json
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\appsettings.json
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\CK.staticwebassets.runtime.json
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\CK.exe
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\CK.deps.json
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\CK.runtimeconfig.json
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\CK.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\CK.pdb
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Azure.Core.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Azure.Identity.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ClosedXML.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\EPPlus.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\FluentAssertions.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Humanizer.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Irony.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.Common.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\XLParser.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ahmed\CircleK\CK\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.CK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.build.CK.props
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CK.props
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CK.props
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\scopedcss\Views\Sales\_Layout.cshtml.rz.scp.css
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\scopedcss\bundle\CK.styles.css
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\scopedcss\projectbundle\CK.bundle.scp.css
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.csproj.CopyComplete
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\CK.genruntimeconfig.cache
+D:\Ahmed\CircleK\CK\obj\Debug\net8.0\ref\CK.dll

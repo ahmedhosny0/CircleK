@@ -1,0 +1,689 @@
+﻿@model CK.Models.VMLogin;
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Circle K</title>
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="/plugins/fontawesome-free/css/all.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Tempusdominus Bootstrap 4 -->
+    <link rel="stylesheet" href="/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+    <!-- iCheck -->
+    <link rel="stylesheet" href="/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+    <!-- JQVMap -->
+    <link rel="stylesheet" href="/plugins/jqvmap/jqvmap.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/dist/css/adminlte.min.css">
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" href="/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+    <!-- Daterange picker -->
+    <link rel="stylesheet" href="/plugins/daterangepicker/daterangepicker.css">
+    <!-- summernote -->
+    <link rel="stylesheet" href="/plugins/summernote/summernote-bs4.min.css">
+    <link rel="stylesheet" href="/css/test.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.css" />
+    <link rel="stylesheet" href="/plugins/bootstrap/date.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.css" />
+
+    <!--for date-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <!-- Datepicker JS -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+    @*     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    *@
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <!-- Add Bootstrap CSS (you may have this already) -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <!-- Add Bootstrap JS (you may have this already) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var filterCard = document.getElementById('filterCard');
+            var displayFieldsCard = document.getElementById('displayFieldsCard');
+
+            // Event listener for filtering card toggle
+            filterCard.querySelector('.card-title').addEventListener('click', function () {
+                toggleCard(filterCard, displayFieldsCard);
+            });
+
+            // Event listener for display fields card toggle
+            displayFieldsCard.querySelector('.card-title').addEventListener('click', function () {
+                toggleCard(displayFieldsCard, filterCard);
+            });
+
+            function toggleCard(cardToShow, cardToHide) {
+                var cardBodyToShow = cardToShow.querySelector('.card-body');
+                var cardBodyToHide = cardToHide.querySelector('.card-body');
+
+
+                // Toggle the visibility of the card to show
+                cardBodyToShow.style.display = cardBodyToShow.style.display === 'none' ? 'block' : 'none';
+
+                // Hide the card to hide
+                cardBodyToHide.style.display = 'none';
+                cardBodyToShow.style.display = 'none';
+            }
+
+        });    </script>
+
+@*     <script type="text/javascript" language="javascript">
+
+        function DisableBackButton() {
+            window.history.forward()
+        }
+        DisableBackButton();
+        window.onload = DisableBackButton;
+        window.onpageshow = function (evt) { if (evt.persisted) DisableBackButton() }
+        window.onunload = function () { void (0) }
+    </script> *@
+
+
+    <script>
+        var preventBack = @Html.Raw(Json.Serialize(ViewData["PreventBack"] ?? false));
+
+        if (preventBack) {
+            window.history.pushState(null, "", location.href);
+            window.onpopstate = function () {
+                window.history.pushState(null, "", location.href);
+            };
+        }
+    </script>
+    <script>
+        let isRunning = false;
+        let seconds = 0;
+        let interval;
+
+        function startStop() {
+            if (isRunning) {
+                // Stop the stopwatch
+                clearInterval(interval);
+                document.getElementById('exportButton').textContent = 'Start';
+            } else {
+                // Start the stopwatch
+                interval = setInterval(updateStopwatch, 1000);
+                document.getElementById('exportButton').textContent = 'Stop';
+            }
+
+            isRunning = !isRunning;
+        }
+
+        function reset() {
+            // Stop the stopwatch and reset the time
+            clearInterval(interval);
+            isRunning = false;
+            seconds = 0;
+            document.getElementById('exportButton').textContent = 'Start';
+            updateDisplay();
+        }
+
+        function updateStopwatch() {
+            // Update the elapsed time
+            seconds++;
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            // Format and display the elapsed time
+            const display = document.getElementById('display');
+            const hours = Math.floor(seconds / 3600);
+            const minutes = Math.floor((seconds % 3600) / 60);
+            const secs = seconds % 60;
+
+            display.textContent = `${formatTime(hours)}:${formatTime(minutes)}:${formatTime(secs)}`;
+        }
+
+        function formatTime(time) {
+            // Ensure that time values are displayed with leading zeros
+            return time < 10 ? `0${time}` : time;
+        }
+
+        async function exportFunction() {
+            // Start the stopwatch when export process begins
+            startStop();
+
+            try {
+                // Replace this block with your actual asynchronous export logic
+                await new Promise((resolve) => {
+                    setTimeout(() => {
+                        // Simulating a successful export after a delay (adjust as needed)
+                        console.log('Export done!');
+                        resolve();
+                    }, 2000); // Adjust the delay as needed (e.g., 2000 milliseconds = 2 seconds)
+                });
+            } catch (error) {
+                console.error('Export failed:', error);
+            } finally {
+                // Stop the stopwatch when the export is done (whether successful or not)
+                reset();
+            }
+        }
+    </script>
+
+
+
+    <style>
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            right: 0;
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 5px 0 5px 5px;
+            border-color: transparent transparent transparent #cdc4c4;
+            transform: translateY(-50%) rotate(-270deg); 
+            margin: auto;
+        }
+
+        .nav-item {
+            position: relative;
+        }
+
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+
+            .dropdown-menu a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+        .nav-item:hover .dropdown-menu {
+            display: block;
+        }
+
+        .content-wrapper {
+           
+            width: 100%;
+            margin-left: 0; 
+        }
+
+        .navbar-expand .navbar-nav .nav-link {
+            padding-right: 0.5rem;
+            padding-left: 0.5rem;
+            margin-right: 30px;
+        }
+
+        .nav-link1 {
+            margin-left: 400px;
+        }
+
+        .stopwatch-container {
+            text-align: center;
+        }
+
+        #display {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            font-size: 16px;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+        </style>
+</head>
+
+<body class="hold-transition @* sidebar-mini layout-fixed *@">
+    <div class="preloader">
+        <div class="sk-spinner sk-spinner-wave">
+            <div class="sk-rect1"></div>
+            <div class="sk-rect2"></div>
+            <div class="sk-rect3"></div>
+            <div class="sk-rect4"></div>
+            <div class="sk-rect5"></div>
+        </div>
+    </div>
+    <div class="wrapper" style="margin-left:0;">
+
+        <nav class="main-header navbar navbar-expand navbar-white navbar-light" style="background-color:#700909;margin-left:0  ;">
+            <ul class="navbar-nav">
+              
+
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="#" class="nav-link" style="color:#cdc4c4">Home</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="Sales" asp-action="SalesReport">CircleK</a>
+
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="Reports" asp-action="SalesReport">Report</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="#" asp-action="#">Purchase</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="#" asp-action="#">Stock</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="#" asp-action="#">Tender</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link dt" style="color:#cdc4c4" asp-controller="#" asp-action="#">Attendance</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="#" asp-action="#">Shelf Label</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="#" asp-action="#">Call Center</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a class="nav-link" style="color:#cdc4c4" asp-controller="#" asp-action="#">General</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Option 1</a></li>
+                        <li><a class="dropdown-item" href="#">Option 2</a></li>
+                        <li><a class="dropdown-item" href="#">Option 3</a></li>
+                        <li><a class="dropdown-item" href="#">Option 4</a></li>
+                        <li><a class="dropdown-item" href="#">Option 5</a></li>
+                    </ul>
+                </li>
+                
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a asp-action="Logout" asp-controller="Home" class="nav-link1" style="color: #cdc4c4">Logout</a>
+                    
+
+                </li>
+            </ul>
+        </nav>
+  
+        <div class="content-wrapper" style="margin-left:0;">
+            <div class="content-header">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+
+                        <div class="col-sm-6">
+                        </div>
+                    </div>
+                </div>
+            </div>
+          
+            <form asp-controller="Home" asp-action="Index" method="get" />
+            <section class="content">
+                <div class="container-fluid">
+                   
+                    <div class="row">
+                        <section class="col-lg-7 connectedSortable">
+                 
+                            <div class="row" style="display: block;">
+                                <div class="col-md-3">
+                                    <div class="card card-primary collapsed-card" style="width:1080px" id="filterCard">
+                                        <div class="card-header" style="color: #034C96;border:1px solid #0000004d;background-color:#0000000f">
+                                            <h3 class="card-title" data-card-widget="collapse">Filtering</h3>
+                                            <div class="card-tools">
+                                                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                                    <i class="fas fa-plus" style="color: #034C96"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="card-body" style="padding: 20px;">
+                                            <ul style="list-style: none;">
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>RMS before 2020</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="RMS">
+                                                    <label>RMS db</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="TMT" >
+                                                    <label>D365 db</label>
+                                                </li>
+                                            </ul>
+                                            <ul style="list-style: none;">
+                                                <li class="Displayliselect">
+                                                    <label>Franchise:</label>
+                                                    <br>
+                                                    <select class="FilterSelect form-control" disabled>
+                                                        <option>Select</option>
+                                                    </select>
+                                                </li>
+                                                <li class="Displayliselect">
+                                                    <label>Store Name:</label>
+                                                    <br>
+@*                                                     <select class="FilterSelect form-control" name="Store" asp-items="@(new SelectList(ViewBag.VBStore,"Value","Text"))">
+ *@
+                                                        <select class="FilterSelect form-control" name="Store" asp-items="@(new SelectList(ViewBag.VBStore,"StoreId","StoreName"))">
+                                                        
+                                                        <option>Choose Store</option>
+                                                        <option value="0">All Stores</option>
+                                                    </select>
+                                                </li>
+                                                <li class="Displayliselect">
+                                                    <label>Department:</label>
+                                                    <br>
+                                                    <select class="FilterSelect form-control" name="Department" asp-items="@(new SelectList(ViewBag.VBDepartment,"Code","Name"))">
+                                                        <option>Choose Department</option>
+                                                        <option value="0">All Department</option>
+                                                    </select>
+                                                </li>
+                                                <li class="Displayliselect">
+                                                    <label>Item Barcode:</label>
+                                                    <br>
+                                                    <select class="FilterSelect form-control" disabled>
+                                                        <option class="FilterSelect">Select</option>
+                                                        <option class="FilterSelect">Select1</option>
+                                                    </select>
+                                                </li>@*
+                                                <li class="Displayliselect">
+                                                <label>Item Description:</label>
+                                                <br>
+                                                <select class="FilterSelect form-control" name="Item" asp-items="@(new SelectList(ViewBag.VBItemName,"ItemLookupCode","Description"))" disabled>
+                                                <option>Choose Item</option>
+                                                <option value="0">All Items</option>
+                                                </select>
+                                                </li>*@
+                                                <li class="Displayliselect">
+                                                    <label>Supplier Name:</label>
+                                                    <br>
+                                                    <select class="FilterSelect form-control" disabled>
+                                                        <option>Select</option>
+                                                    </select>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li class="Displayliselect">
+                                                    <label>Date From:</label>
+                                                    <br>
+                                                    <input placeholder="yyyy/MM/dd" type="text" id="txtStartDate" name="startDate" class="startDate form-control" style="width:200px;display:inline-block">
+                                                </li>
+                                                <li class="Displayliselect">
+                                                    <label>Date To:</label>
+                                                    <br>
+                                                    <input placeholder="yyyy/MM/dd" type="text" id="txtEndDate" name="endDate" class="endDate form-control" style="width:200px;display:inline-block" ">
+                                                </li>
+                                            </ul>
+                                            <ul style="list-style: none;">
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" disabled>
+                                                    <label>Yesterday</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Last Week</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Last Month</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Last Year</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3" style="display: block;float:none">
+                                    <div class="card card-primary collapsed-card" style="width:1080px" id="displayFieldsCard">
+                                        <div class="card-header" style="color: #034C96;border:1px solid #0000004d;background-color:#0000000f">
+                                            <h3 class="card-title" data-card-widget="collapse">Display Fields</h3>
+                                            <div class="card-tools">
+                                                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                                    <i class="fas fa-plus" style="color: #034C96"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="card-body" style="padding: 20px;">
+                                            <ul style="list-style: none;">
+
+                                                <li class="Displayli">
+                                                    <input type="checkbox" name="VPerDay" value="true">
+                                                    <label>Day</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="VPerMonYear">
+                                                    <label>Month / Year</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="VPerYear">
+                                                    <label>Year</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="VPerMon">
+                                                    <label>Month</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Date</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Date & Time</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Transaction ID</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Franchise</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Store ID</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Store Name</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Supplier Name</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Department</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Item BarCode</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Description</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" name="VQty" value="true">
+                                                    <label>Quantity</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Cost</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" name="VPrice" value="true">
+                                                    <label>Price</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Total Cost</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Total Sales</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Sales Tax</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Total Sales Tax</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Total Sales Without Tax</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>Profit Without Tax</label>
+                                                </li>
+                                                <li class="Displayli">
+                                                    <input type="checkbox" value="true" name="" disabled>
+                                                    <label>TransactionCount</label>
+                                                </li> 
+                                                </ul>
+                                         </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    <input type="checkbox" name="exportAfterClick" value="true">
+                    Export To Excel
+                    <button type="submit" value="Display Report" id="exportButton" class="btn btn-primary " onclick="startStop()">Execute</button>
+
+                </div>
+                </section>
+            </form>      
+        </div>
+        <div class="stopwatch-container">
+            <div id="display">00:00:00</div>
+            <button onclick="reset()">Reset</button>
+        </div>
+        <footer class="main-footer" style="margin-left:0  ;">
+            <strong>Copyright &copy; 2023 <a href="">Circle K</a>.</strong>
+            All rights reserved.
+        </footer>
+
+        <aside class="control-sidebar control-sidebar-dark">
+        </aside>
+    </div>
+    <script src="/plugins/jquery/jquery.min.js"></script>
+    <script src="/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <script>
+        $.widget.bridge('uibutton', $.ui.button)
+    </script>
+    <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/plugins/chart.js/Chart.min.js"></script>
+    <script src="/plugins/sparklines/sparkline.js"></script>
+    <script src="/plugins/jqvmap/jquery.vmap.min.js"></script>
+    <script src="/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+    <script src="/plugins/jquery-knob/jquery.knob.min.js"></script>
+    <script src="/plugins/moment/moment.min.js"></script>
+    <script src="/plugins/daterangepicker/daterangepicker.js"></script>
+    <script src="/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="plugins/summernote/summernote-bs4.min.js"></script>
+    <script src="/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <script src="/dist/js/adminlte.js"></script>
+                                                    @*     <script src="/dist/js/demo.js"></script>
+    *@    <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+    <script src="/dist/js/pages/dashboard.js"></script>
+
+                                                    @*
+    <link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" />
+    <!--for date style-->
+
+    *@
+                                                    @*     <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+    *@    <!--for date style-->
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.css" />
+
+    <!--for date-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".startDate").datepicker({
+                autoclose: true,
+                format: 'yyyy/mm/dd'
+            }).on('changeDate', function (selected) {
+                var minDate = new Date(selected.date);
+                minDate.setDate(minDate.getDate());
+                $('.endDate').datepicker('setStartDate', minDate);
+            });
+
+            $(".endDate").datepicker({
+                autoclose: true,
+                format: 'yyyy/mm/dd'
+            }).on('changeDate', function (selected) {
+                var minDate = new Date(selected.date);
+                minDate.setDate(minDate.getDate());
+                $('.startDate').datepicker('setEndDate', minDate);
+            });
+        });
+    </script>
+</body>
+</html>

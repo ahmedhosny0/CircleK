@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Auto-Start Timer</title>
+</head>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.stopwatch-container {
+    text-align: center;
+}
+
+#display {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+</style>
+<body>
+        <div class="stopwatch-container">
+            <div id="display">00:00:00</div>
+            <button id="startStopButton" onclick="startStop()">Start</button>
+            <button id="resetButton" onclick="reset()">Reset</button>
+        </div>
+<script>
+let isRunning = false;
+let seconds = 0;
+let interval;
+
+function startStop() {
+    if (isRunning) {
+        // Stop the stopwatch
+        clearInterval(interval);
+        document.getElementById('startStopButton').textContent = 'Start';
+    } else {
+        // Start the stopwatch
+        interval = setInterval(updateStopwatch, 1000);
+        document.getElementById('startStopButton').textContent = 'Stop';
+    }
+
+    isRunning = !isRunning;
+}
+
+function reset() {
+    // Stop the stopwatch and reset the time
+    clearInterval(interval);
+    isRunning = false;
+    seconds = 0;
+    document.getElementById('startStopButton').textContent = 'Start';
+    updateDisplay();
+}
+
+function updateStopwatch() {
+    // Update the elapsed time
+    seconds++;
+    updateDisplay();
+}
+
+function updateDisplay() {
+    // Format and display the elapsed time
+    const display = document.getElementById('display');
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor((seconds % 3600) / 60);
+    const secs = seconds % 60;
+
+    display.textContent = `${formatTime(hours)}:${formatTime(minutes)}:${formatTime(secs)}`;
+}
+
+function formatTime(time) {
+    // Ensure that time values are displayed with leading zeros
+    return time < 10 ? `0${time}` : time;
+}
+</script>
+    <script src="script.js"></script>
+</body>
+</html>
