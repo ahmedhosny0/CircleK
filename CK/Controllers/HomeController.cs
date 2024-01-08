@@ -121,13 +121,14 @@ namespace CK.Controllers
 
             IQueryable<RptSale> RptSales = db.RptSales;
             IQueryable<RptSalesAxt> RptSalesAxts = db.RptSalesAxts;
+            IQueryable<RptSalesAll> RptSalesAlls = db.RptSalesAlls;
 
             if (!string.IsNullOrEmpty(startDate))
             {
                 DateTime startDateTime = Convert.ToDateTime(startDate, new CultureInfo("en-GB"));
                 RptSales = RptSales.Where(s => s.TransDate.HasValue && s.TransDate >= startDateTime);
                 RptSalesAxts = RptSalesAxts.Where(s => s.TransDate.HasValue && s.TransDate >= startDateTime);
-                // RptSalesAxts = RptSalesAxts.Where(s => s.Transdate.HasValue && s.Transdate >= startDateTime);
+                RptSalesAlls = RptSalesAlls.Where(s => s.TransDate.HasValue && s.TransDate >= startDateTime);
             }
 
             if (!string.IsNullOrEmpty(endDate))
@@ -135,7 +136,7 @@ namespace CK.Controllers
                 DateTime endDateTime = Convert.ToDateTime(endDate, new CultureInfo("en-GB"));
                 RptSales = RptSales.Where(s => s.TransDate.HasValue && s.TransDate <= endDateTime);
                 RptSalesAxts = RptSalesAxts.Where(s => s.TransDate.HasValue && s.TransDate <= endDateTime);
-                // RptSalesAxts = RptSalesAxts.Where(s => s.Transdate.HasValue && s.Transdate <= endDateTime);
+                RptSalesAlls = RptSalesAlls.Where(s => s.TransDate.HasValue && s.TransDate <= endDateTime);
             }   // Declared at the class level
             DateTime currentDate = DateTime.Now;
             DateTime lastWeekStartDate = currentDate.AddDays(-7);
@@ -148,26 +149,22 @@ namespace CK.Controllers
                 //RptSales = RptSales.Where(s => s.TransDate >= lastWeekStartDate && s.TransDate <= currentDate);
                 RptSales = RptSales.Where(s => s.TransDate >= firstDayOfCurrentMonth && s.TransDate <= lastDayOfLastMonth);
                 RptSalesAxts = RptSalesAxts.Where(s => s.TransDate >= firstDayOfCurrentMonth && s.TransDate <= lastDayOfLastMonth);
-                // RptSales = RptSales.Where(s => s.TransDate >= lastMonthDate && s.TransDate <= lastMonthDate);
+                RptSalesAlls = RptSalesAlls.Where(s => s.TransDate >= firstDayOfCurrentMonth && s.TransDate <= lastDayOfLastMonth);
 
             }
             if (Store != null)
             {
-                if (RMS)
+                if (RMS ||TMT)
                 {
                     RptSales = RptSales.Where(s => s.StoreId == Store.Value);
-                }
-                if (TMT)
-                {
                     //int selectedStoreId;
                     //if (int.TryParse(Store, out selectedStoreId))
                     //{
                     //    RptSalesAxts = RptSalesAxts.Where(s => s.StoreId == selectedStoreId).ToList();
                     //}
-                     RptSalesAxts = RptSalesAxts.Where(s => s.StoreId == Store.Value.ToString());
+                    RptSalesAxts = RptSalesAxts.Where(s => s.StoreId == Store.Value.ToString());
+                    RptSalesAlls = RptSalesAlls.Where(s => s.StoreId == Store.Value);
                 }
-               // RptSalesAxts = RptSalesAxts.Where(s => s.Store == Store.Value.ToString());
-
             }
             if (monthToFilter.HasValue)
             {
@@ -177,6 +174,7 @@ namespace CK.Controllers
             {
                 RptSales = RptSales.Where(s => s.DpId == Department.Value);
                 RptSalesAxts = RptSalesAxts.Where(s => s.DpId == Department.Value.ToString());
+                RptSalesAlls = RptSalesAlls.Where(s => s.DpId == Department.Value);
 
             }
             if (string.IsNullOrEmpty(startDate) && string.IsNullOrEmpty(endDate) && Store is null && Department is null)
@@ -186,6 +184,178 @@ namespace CK.Controllers
             // Dynamic GroupBy based on selected values
             // Dynamic GroupBy based on selected values
             IQueryable<dynamic> reportData1;
+            if (TMT &&RMS)
+            {
+                if (VPerDay == true)
+                {
+                    if (Store != null && Department != null)
+                    {
+                        reportData1 = RptSalesAlls
+                       .GroupBy((RptSalesAll d) => new { Date = d.TransDate.Value.Date, d.DpName, d.StoreName, d.ByMonth, d.ByYear })
+                       .Select(g => new
+                       {
+                           Total = g.Sum(d => d.TotalSales),
+                           TotalQty = g.Sum(d => d.Qty),
+                           PerDay = g.Key.Date.ToString("yyyy-MM-dd"),
+                           DepName = g.Key.DpName,
+                           Price = g.Max(d => d.Price),
+                           PerMonth = g.Key.ByMonth,
+                           PerYear = g.Key.ByYear,
+                           StoreName = g.Key.StoreName,
+
+                       });
+
+                    }
+                    else if (Store == null && Department != null)
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new { d.DpName, Date = d.TransDate.Value.Date, d.ByMonth, d.ByYear })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                DepName = g.Key.DpName,
+                                Price = g.Max(d => d.Price),
+                                PerMonth = g.Key.ByMonth,
+                                PerYear = g.Key.ByYear,
+                                PerDay = g.Key.Date.ToString("yyyy-MM-dd"),
+                            });
+                    }
+                   else if (Store != null && Department == null)
+                    {
+                        reportData1 = RptSalesAlls
+                       .GroupBy((RptSalesAll d) => new { Date = d.TransDate.Value.Date, d.StoreName, d.ByMonth, d.ByYear })
+                       .Select(g => new
+                       {
+                           Total = g.Sum(d => d.TotalSales),
+                           TotalQty = g.Sum(d => d.Qty),
+                           PerDay = g.Key.Date.ToString("yyyy-MM-dd"),
+                           Price = g.Max(d => d.Price),
+                           PerMonth = g.Key.ByMonth,
+                           PerYear = g.Key.ByYear,
+                           StoreName = g.Key.StoreName,
+
+                       });
+
+                    }
+
+                    else
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new {  Date = d.TransDate.Value.Date, d.ByMonth, d.ByYear })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                Price = g.Max(d => d.Price),
+                                PerMonth = g.Key.ByMonth,
+                                PerYear = g.Key.ByYear,
+                                PerDay = g.Key.Date.ToString("yyyy-MM-dd"),
+                            });
+                    }
+                }
+                else if (VPerMon == true)
+                {
+                    if (Store != null && Department != null)
+                    {
+                        reportData1 = RptSalesAlls
+                           .GroupBy((RptSalesAll d) => new { d.ByMonth, d.DpName, d.StoreName, d.ByYear })
+                           .Select(g => new
+                           {
+                               Total = g.Sum(d => d.TotalSales),
+                               TotalQty = g.Sum(d => d.Qty),
+                               PerMonth = g.Key.ByMonth,
+                               PerYear = g.Key.ByYear,
+                               DepName = g.Key.DpName,
+                               Price = g.Max(d => d.Price),
+                               StoreName = g.Key.StoreName
+                           });
+
+                    }
+                    else if (Store == null && Department != null)
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new { d.DpName, d.ByMonth, d.ByYear })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                DepName = g.Key.DpName,
+                                Price = g.Max(d => d.Price),
+                                PerMonth = g.Key.ByMonth,
+                                PerYear = g.Key.ByYear,
+                            });
+                    }
+                    else if (Store != null && Department == null)
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new { d.StoreName, d.ByMonth, d.ByYear })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                StoreName = g.Key.StoreName,
+                                Price = g.Max(d => d.Price),
+                                PerMonth = g.Key.ByMonth,
+                                PerYear = g.Key.ByYear,
+                            });
+                    }
+                    else
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new { d.ByMonth, d.ByYear })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                Price = g.Max(d => d.Price),
+                                PerMonth = g.Key.ByMonth,
+                                PerYear = g.Key.ByYear,
+                            });
+                    }
+                }
+                else
+                {
+                    if (Store != null && Department != null)
+                    {
+                        reportData1 = RptSalesAlls
+                           .GroupBy((RptSalesAll d) => new { d.DpName, d.StoreName })
+                           .Select(g => new
+                           {
+                               Total = g.Sum(d => d.TotalSales),
+                               TotalQty = g.Sum(d => d.Qty),
+                               DepName = g.Key.DpName,
+                               Price = g.Max(d => d.Price),
+                               StoreName = g.Key.StoreName
+                           });
+
+                    }
+                    else if (Store == null && Department != null)
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new { d.DpName })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                DepName = g.Key.DpName,
+                                Price = g.Max(d => d.Price),
+                            });
+                    }
+                    else
+                    {
+                        reportData1 = RptSalesAlls
+                            .GroupBy((RptSalesAll d) => new { d.StoreName })
+                            .Select(g => new
+                            {
+                                Total = g.Sum(d => d.TotalSales),
+                                TotalQty = g.Sum(d => d.Qty),
+                                StoreName = g.Key.StoreName,
+                                Price = g.Max(d => d.Price),
+                            });
+                    }
+                }
+            }
             if (TMT)
             {
                 if (VPerDay == true)
@@ -226,12 +396,11 @@ namespace CK.Controllers
                     else
                     {
                         reportData1 = RptSalesAxts
-                            .GroupBy((RptSalesAxt d) => new { d.StoreName, Date = d.TransDate.Value.Date, d.ByMonth, d.ByYear })
+                            .GroupBy((RptSalesAxt d) => new { Date = d.TransDate.Value.Date, d.ByMonth, d.ByYear })
                             .Select(g => new
                             {
                                 Total = g.Sum(d => d.TotalSales),
                                 TotalQty = g.Sum(d => d.Qty),
-                                StoreName = g.Key.StoreName,
                                 Price = g.Max(d => d.Price),
                                 PerMonth = g.Key.ByMonth,
                                 PerYear = g.Key.ByYear,
@@ -381,12 +550,11 @@ namespace CK.Controllers
                     else
                     {
                         reportData1 = RptSales
-                            .GroupBy((RptSale d) => new { d.StoreName, Date = d.TransDate.Value.Date, d.ByMonth, d.ByYear })
+                            .GroupBy((RptSale d) => new { Date = d.TransDate.Value.Date, d.ByMonth, d.ByYear })
                             .Select(g => new
                             {
                                 Total = g.Sum(d => d.TotalSales),
                                 TotalQty = g.Sum(d => d.Qty),
-                                StoreName = g.Key.StoreName,
                                 Price = g.Max(d => d.Price),
                                 PerMonth = g.Key.ByMonth,
                                 PerYear = g.Key.ByYear,

@@ -21,6 +21,8 @@ public partial class DataCenterContext : DbContext
 
     public virtual DbSet<RptSale> RptSales { get; set; }
 
+    public virtual DbSet<RptSalesAll> RptSalesAlls { get; set; }
+
     public virtual DbSet<RptSalesAx> RptSalesAxes { get; set; }
 
     public virtual DbSet<RptSalesAxt> RptSalesAxts { get; set; }
@@ -203,6 +205,41 @@ public partial class DataCenterContext : DbContext
             entity.Property(e => e.SupplierCode).HasMaxLength(17);
             entity.Property(e => e.SupplierName).HasMaxLength(30);
             entity.Property(e => e.Tax).HasColumnType("money");
+            entity.Property(e => e.TransTime).HasColumnType("datetime");
+        });
+
+        modelBuilder.Entity<RptSalesAll>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToView("RptSalesAll");
+
+            entity.Property(e => e.Cost)
+                .HasColumnType("numeric(32, 6)")
+                .HasColumnName("cost");
+            entity.Property(e => e.DpId).HasColumnName("DpID");
+            entity.Property(e => e.DpName)
+                .HasMaxLength(254)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
+            entity.Property(e => e.ItemLookupCode)
+                .HasMaxLength(25)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
+            entity.Property(e => e.ItemName)
+                .HasMaxLength(30)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
+            entity.Property(e => e.Price)
+                .HasColumnType("numeric(32, 6)")
+                .HasColumnName("price");
+            entity.Property(e => e.Qty).HasColumnName("qty");
+            entity.Property(e => e.StoreFranchise)
+                .HasMaxLength(50)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS")
+                .HasColumnName("Store_Franchise");
+            entity.Property(e => e.StoreId).HasColumnName("StoreID");
+            entity.Property(e => e.StoreName)
+                .HasMaxLength(50)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS");
+            entity.Property(e => e.TotalSales).HasColumnName("totalsales");
             entity.Property(e => e.TransTime).HasColumnType("datetime");
         });
 
