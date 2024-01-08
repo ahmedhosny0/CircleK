@@ -12975,7 +12975,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\nagy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -12983,11 +12983,11 @@
       "projectUniqueName": "D:\\Ahmed\\CircleK\\CK\\CK.csproj",
       "projectName": "CK",
       "projectPath": "D:\\Ahmed\\CircleK\\CK\\CK.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\nagy\\.nuget\\packages\\",
       "outputPath": "D:\\Ahmed\\CircleK\\CK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nagy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
