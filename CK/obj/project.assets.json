@@ -12980,11 +12980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CircleK\\CK\\CK.csproj",
+      "projectUniqueName": "D:\\Ahmed\\CircleK\\CK\\CK.csproj",
       "projectName": "CK",
-      "projectPath": "D:\\CircleK\\CK\\CK.csproj",
+      "projectPath": "D:\\Ahmed\\CircleK\\CK\\CK.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\CircleK\\CK\\obj\\",
+      "outputPath": "D:\\Ahmed\\CircleK\\CK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

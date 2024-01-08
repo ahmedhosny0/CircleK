@@ -34,6 +34,7 @@ namespace CK.Controllers
            , bool VItemLookupCode, bool VItemName, bool VSupplierId, bool VSupplierName,
             int? monthToFilter, string ItemLookupCodeTxt, string ItemNameTxt, bool TMT, bool RMS, bool Yesterday)
         {
+            // Visual from Marinaa
             DataCenterContext db = new DataCenterContext();
             CkhelperdbContext db3 = new CkhelperdbContext();
             db.Database.SetCommandTimeout(600); // Set the timeout in seconds
